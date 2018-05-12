@@ -1,4 +1,4 @@
-# test-vue-cli
+# vue-cli-multiplePage
 
 > A Vue.js project
 
