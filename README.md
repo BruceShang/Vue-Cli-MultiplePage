@@ -17,6 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+## [博客地址](https://bruceshang.github.io/2018/05/05/vue%E9%A1%B9%E7%9B%AEwebpack%E5%A4%9A%E9%A1%B5%E9%9D%A2%E6%9E%84%E5%BB%BA/)
 
 ### 1.配置多入口
 ```js
